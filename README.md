@@ -7,7 +7,8 @@ Full stack developer passionate about building new apps and learning new technol
 - Tailwind CSS
 - PocketBase
 - Python
-- AI integration (Claude)
+- -Langchain
+- AI integration (AI agents and workers, RAG systems, Chatbots, Automation Tools)
 
 ## 💼 Current Focus
 - Developing automation tools and documentation systems for companies
