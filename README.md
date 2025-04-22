@@ -7,8 +7,10 @@ Full stack developer passionate about building new apps and learning new technol
 - Tailwind CSS
 - PocketBase
 - Python
-- -Langchain
+- Fastapi, SQLalchemy, Alembic
+- Langchain
 - AI integration (AI agents and workers, RAG systems, Chatbots, Automation Tools)
+- n8n
 
 ## 💼 Current Focus
 - Developing automation tools and documentation systems for companies
@@ -23,7 +25,7 @@ Feel free to reach out for collaborations or interesting projects:
 - Email: camiloac97@gmail.com
 
 Let's build something amazing together!
-- 📫 How to reach me ...
+
 
 <!---
 CamiloCaceres/CamiloCaceres is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
