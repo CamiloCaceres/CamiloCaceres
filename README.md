@@ -18,8 +18,7 @@ Full stack developer passionate about building new apps and learning new technol
 - Freelance development projects
 
 ## 🌱 Interests
-I'm always excited to work on new applications and explore emerging technologies. While I have a full-time non-developer job, I'm actively involved in creating automation and documentation/systems information tools for my company.
-
+I'm always excited to work on new applications and explore emerging technologies. 
 ## 📫 Contact
 Feel free to reach out for collaborations or interesting projects:
 - Email: camiloac97@gmail.com
