@@ -2,7 +2,7 @@
 
 Full stack developer passionate about building new apps and learning new technologies.
 
-## 🚀 Skills
+## 🚀 Tech I Enjoy Using
 - Nuxt 3
 - Tailwind CSS
 - PocketBase
